@@ -154,7 +154,7 @@ export default function QueEsTeresa() {
             "
           </Typography>
           <Button
-            href="#contacto"
+            href="https://teresai-front-production.up.railway.app/"
             variant="contained"
             size="large"
             sx={{

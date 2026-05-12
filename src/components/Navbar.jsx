@@ -46,7 +46,7 @@ export default function Navbar() {
             </Button>
           ))}
           <Button
-            href="#contacto"
+            href="https://teresai-front-production.up.railway.app/"
             variant="contained"
             size="small"
             sx={{
