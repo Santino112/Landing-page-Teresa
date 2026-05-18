@@ -48,7 +48,7 @@ export default function Navbar() {
           <Button
             href="https://teresai-front-production.up.railway.app/"
             variant="contained"
-            size="small"
+            size="medium"
             sx={{
               ml: 1,
               background: '#1976D2',
